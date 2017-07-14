@@ -109,3 +109,4 @@ function Read_number(so) {
     return String;
 }
 console.log(Read_number(111111111110));
+// kết quả in ra chuỗi: một trăm mười một tỷ  một trăm mười một triệu  một trăm mười một nghìn  một trăm mười
